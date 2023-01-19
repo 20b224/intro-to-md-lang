@@ -5,7 +5,7 @@
 ##### Heading 5
 ###### Heading 6
 
-![GOOGLE](https://www.google.com)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ```
 $git add .
